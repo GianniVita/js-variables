@@ -10,7 +10,7 @@ console.log(nome);
 const number = 100;
 console.log(number);
 
-const stringa = 'weekend';
+const stringa = 'weekend' ;
 console.log(stringa);
 
 const bool = false;
