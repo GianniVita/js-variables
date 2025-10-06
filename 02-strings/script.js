@@ -14,7 +14,10 @@ const stringa = 'weekend' ;
 console.log(stringa);
 
 const bool = false;
-console.log( bool);
+console.log(bool);
+// you can print more at once
+console.log(number, stringa, bool);
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
