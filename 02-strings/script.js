@@ -15,7 +15,7 @@ console.log(stringa);
 
 const bool = false;
 console.log(bool);
-// you can print more at once
+// you can print more variables at once
 console.log(number, stringa, bool);
 
 
